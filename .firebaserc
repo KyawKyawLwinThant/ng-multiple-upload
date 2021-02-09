@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-course-cf4e2": {
+      "hosting": {
+        "multi-upload": [
+          "fire-course-cf4e2"
+        ]
+      }
+    }
+  }
+}
